@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Next Level Week" src=".github/logo.svg" width="200px" />
+    <img alt="Next Level Week" src="github/logo.svg" width="200px" />
 </h1>
 
 <h2 align="center">
 
-  <img alt="Rocketseat - NLW" src=".github/rocket.svg" width="200px" />
+  <img alt="Rocketseat - NLW" src="github/rocket.svg" width="200px" />
   <br/>
   🚀 Next Level Week - Booster ♻️
 </h2>
